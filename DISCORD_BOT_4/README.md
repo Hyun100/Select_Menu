@@ -9,7 +9,7 @@ DANGER! = ("You should select and install a special option called "ADD to Path" 
 ENGLISH = (If you are a Windows user, press Windows Key + R to open the run window, and enter cmd or powershell)
 
 3. pip install discord을 입력하여 discord.py을 설치합니다.
-you should enter pip install discord.py in a windows console.
+you should enter pip install discord.py and pip install -U git+https://github.com/Rapptz/discord.py.git in a windows console.
 
 4. 설치가 끝나면 봇의 토큰을 넣어주고 플레이 버튼을 눌려서 실행합니다.
 If install finish now, back to visual studio code window! you enter your discord bot token. and you press play button!
@@ -19,7 +19,7 @@ If install finish now, back to visual studio code window! you enter your discord
 
 Wow! this is your bot! amazing!
 
-###########################################
+# How to download? #
 
 \\ How to get a bot token? \\
 Go to the Discord Developer page. And you make an application!
